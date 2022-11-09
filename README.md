@@ -1,6 +1,6 @@
 # Desafio: RocketShoes
 
-![logo.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fbb2b9cd-7ace-47d3-a576-ddca12b74d11/logo.svg)
+![logo.svg](assets/logo.svg)
 
 ## **Índice**
 
@@ -12,13 +12,9 @@ Neste desafio você deverá desenvolver um mini e-commerce de calçados esportiv
 
 ## Layout
 
-![RocketShoes.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/145fca7f-769e-4eed-88ea-ae37811c14ad/RocketShoes.png)
+![RocketShoes.png](img/RocketShoes.png)
 
 Você pode visualizar o template do projeto clicando **[neste link](https://www.figma.com/file/iSQh5XZbkiiEDee3mHnhl4/DD-%2F-RocketShoes/duplicate)** e o zip com os assets exportados.
-
-Baixe os assets aqui ⤵️
-
-[assets.zip](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cb43d93f-2c5d-410c-b53c-7a02994416c2/assets.zip)
 
 # 🚀 **Techs**
 
